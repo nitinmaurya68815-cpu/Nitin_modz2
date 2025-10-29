@@ -78,7 +78,7 @@
   </style>
 </head>
 <body>
-  <img src="https://i.postimg.cc/4d9QTVj8/logo.png" alt="Nitin Logo" />
+  <img src="<a href="https://ibb.co/1tc0J405"><img/>
   <h1>Nitin Mourya | Official Links</h1>
 
   <div class="links">
